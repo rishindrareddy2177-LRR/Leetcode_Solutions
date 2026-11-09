@@ -7,3 +7,5 @@ class Solution {
         return address.replace(".", "[.]");
     }
 }
+
+Time Complexity: O(n)
